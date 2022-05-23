@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="working">Started</string>
+    <string name="stopped">Stopped</string>
+    <string name="pause">Pause</string>
+    <string name="interrupt">Paused</string>
+    <string name="reset">Reset</string>
+
+</resources>
